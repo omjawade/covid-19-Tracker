@@ -53,10 +53,9 @@ const Home = () => {
 
           <SelectedCountry />
         </main>
-
-        <footer>
+ <footer>
           <div>
-             Powered by&nbsp;&nbsp;
+            Powered by&nbsp;&nbsp;
             <a
               href="https://nextjs.org/"
               target="_blank"
@@ -88,11 +87,11 @@ const Home = () => {
           <div>
             Made By&nbsp;&nbsp;
             <a
-              href="#"
+              href="https://akashwho.codes"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <b>OM JAWADE</b>
+              <b>Akash Rajpurohit</b>
             </a>
           </div>
         </footer>
