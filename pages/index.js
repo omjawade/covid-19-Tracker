@@ -55,40 +55,40 @@ const Home = () => {
         </main>
 
         <footer>
-          //<div>
-            //Powered by&nbsp;&nbsp;
-            //<a
-              //href="https://nextjs.org/"
-              //target="_blank"
-              //rel="noopener noreferrer"
-            //>
-              //<b>Next.js</b>
-            //</a>
-            //&nbsp;&nbsp;&&nbsp;&nbsp;
-            //<a
-              //href="https://zeit.co"
-              //target="_blank"
-              //rel="noopener noreferrer"
-            //>
-              //<b>Zeit Now</b>
-            //</a>
-          //</div>
+          <div>
+             Powered by&nbsp;&nbsp;
+            <a
+              href="https://nextjs.org/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <b>Next.js</b>
+            </a>
+            &nbsp;&nbsp;&&nbsp;&nbsp;
+            <a
+              href="https://zeit.co"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <b>Zeit Now</b>
+            </a>
+          </div>
 
-          //<div>
-            //Data Source from&nbsp;&nbsp;
-            //<a
-              //href="https://covid19.mathdro.id/api"
-              //target="_blank"
-              //rel="noopener noreferrer"
-            //>
-              //<b>Mathdro's API</b>
-            //</a>
-          //</div>
+          <div>
+            Data Source from&nbsp;&nbsp;
+            <a
+              href="https://covid19.mathdro.id/api"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <b>Mathdro's API</b>
+            </a>
+          </div>
 
           <div>
             Made By&nbsp;&nbsp;
             <a
-              //href="#"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
             >
