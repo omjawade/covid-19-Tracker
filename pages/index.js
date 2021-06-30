@@ -205,14 +205,3 @@ const Home = () => {
 
 export default Home
 
-// footer img {
-//   margin-left: 0.5rem;
-//   width: 10%;
-//   height: 20px;
-// }
-
-// footer a {
-//   display: flex;
-//   justify-content: center;
-//   align-items: center;
-// }
