@@ -53,7 +53,8 @@ const Home = () => {
 
           <SelectedCountry />
         </main>
- <footer>
+
+        <footer>
           <div>
             Powered by&nbsp;&nbsp;
             <a
@@ -87,11 +88,11 @@ const Home = () => {
           <div>
             Made By&nbsp;&nbsp;
             <a
-              href="https://akashwho.codes"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <b>Akash Rajpurohit</b>
+              <b>OM JAWADE</b>
             </a>
           </div>
         </footer>
@@ -204,3 +205,14 @@ const Home = () => {
 
 export default Home
 
+// footer img {
+//   margin-left: 0.5rem;
+//   width: 10%;
+//   height: 20px;
+// }
+
+// footer a {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+// }
