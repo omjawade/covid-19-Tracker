@@ -55,6 +55,20 @@ const Home = () => {
         </main>
 
         <footer>
+          
+
+          <div>
+            Data Source from&nbsp;&nbsp;
+            <a
+              href="https://covid19.mathdro.id/api"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <b>Mathdro's API</b> 
+
+            </a>
+          </div>
+
          
           <div>
             Made By&nbsp;&nbsp;
