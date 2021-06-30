@@ -55,37 +55,7 @@ const Home = () => {
         </main>
 
         <footer>
-          <div>
-            //Powered by&nbsp;&nbsp;
-            <a
-              href="https://nextjs.org/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <b></b> //Next.js
-            </a>
-            &nbsp;&nbsp;&&nbsp;&nbsp;
-            <a
-              href="https://zeit.co"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <b></b> //Zeit Now
-            </a>
-          </div>
-
-          <div>
-            //Data Source from&nbsp;&nbsp;
-            <a
-              href="https://covid19.mathdro.id/api"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <b></b> //Mathdro's API
-
-            </a>
-          </div>
-
+         
           <div>
             Made By&nbsp;&nbsp;
             <a
