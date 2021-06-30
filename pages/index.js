@@ -56,13 +56,13 @@ const Home = () => {
 
         <footer>
           <div>
-            Powered by&nbsp;&nbsp;
+            //Powered by&nbsp;&nbsp;
             <a
               href="https://nextjs.org/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <b>Next.js</b>
+              <b></b> //Next.js
             </a>
             &nbsp;&nbsp;&&nbsp;&nbsp;
             <a
@@ -70,18 +70,19 @@ const Home = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <b>Zeit Now</b>
+              <b></b> //Zeit Now
             </a>
           </div>
 
           <div>
-            Data Source from&nbsp;&nbsp;
+            //Data Source from&nbsp;&nbsp;
             <a
               href="https://covid19.mathdro.id/api"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <b>Mathdro's API</b>
+              <b></b> //Mathdro's API
+
             </a>
           </div>
 
