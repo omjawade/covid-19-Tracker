@@ -71,9 +71,9 @@ const Home = () => {
 
          
           <div>
-            Made By&nbsp;&nbsp;
+            Developed By&nbsp;&nbsp;
             <a
-              href="#"
+              href="https://github.com/omjawade"
               target="_blank"
               rel="noopener noreferrer"
             >
