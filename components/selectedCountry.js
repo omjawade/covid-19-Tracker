@@ -1,8 +1,8 @@
-import { useContext } from "react"
+import { useContext } from "react" 
 import { GlobalContext } from "../context/GlobalState"
-import Skeleton from './skeleton'
+import Skeleton from './skeleton' 
 
-const SelectedCountry = () => {
+const SelectedCountry = () => {                                                                                                
   const { selectedCountry, displayText, loading } = useContext(GlobalContext)
 
   return (
@@ -17,7 +17,7 @@ const SelectedCountry = () => {
           line-height: 1.5;
           font-size: 1.5rem;
         }
-        code {
+        code { 
           background: #fafafa;
           border-radius: 5px;
           padding: 0.75rem;
