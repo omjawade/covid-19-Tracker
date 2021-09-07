@@ -12,13 +12,13 @@ const Skeleton = ({ width = 80, height = 50 }) => {
       
         @keyframes shine {
           0% {
-            background-color: rgba(165, 165, 165, 0.1)
+            background-color:  rgba(165, 165, 165, 0.1)
           }
           50% {
-            background-color: rgba(165, 165, 165, 0.3)
+            background-color:  rgba(165, 165, 165, 0.3)
           }
           100% {
-            background-color: rgba(165, 165, 165, 0.1)
+            background-color:  rgba(165, 165, 165, 0.1)
           }
         }
       `}</style>
